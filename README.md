@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Nmap Port Scanner</b>
+- <b>[Nmap Port Scanner](https://github.com/RightChoiceJayden/P-Nmap.py/blob/main/README.md)</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
