@@ -4,6 +4,8 @@
 
 - <b>[Nmap Port Scanner](https://github.com/RightChoiceJayden/P-Nmap.py/blob/main/README.md)</b>
 
+- <b>[Penetration Test Report (Mock)](https://github.com/RightChoiceJayden/Pen-Test-Report)</b>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
