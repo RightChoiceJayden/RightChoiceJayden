@@ -6,6 +6,13 @@
 
 - <b>[Penetration Test Report (Mock)](https://github.com/RightChoiceJayden/Pen-Test-Report)</b>
 
+- <b>[Linux](https://github.com/RightChoiceJayden/Pen-Test-Report)</b>
+
+- <b>[SQL](https://github.com/RightChoiceJayden/Pen-Test-Report)</b>
+
+- <b>[WireShark](https://github.com/RightChoiceJayden/Pen-Test-Report)</b>
+
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Swift & Xcode</b>
