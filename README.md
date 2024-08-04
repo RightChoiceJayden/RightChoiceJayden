@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+
 - <b>[Nmap Port Scanner](https://github.com/RightChoiceJayden/P-Nmap.py/blob/main/README.md)</b>
 
 - <b>[Penetration Test Report (Mock)](https://github.com/RightChoiceJayden/Pen-Test-Report)</b>
@@ -9,6 +10,8 @@
 - <b>[WireShark](https://github.com/RightChoiceJayden/Wireshark/blob/main/wireshark.md)</b>
 
 - <b>[Tcpdump](https://github.com/RightChoiceJayden/Tcpdump/blob/main/tcpdump.md)</b>
+
+- <b>[Implementing a SOC and Honeypot in Azure](https://github.com/RightChoiceJayden/Honeypots/blob/main/honeypots.md)</b>
 
 
 - <b>Linux</b>
@@ -40,8 +43,6 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 YouTube Videos</h2>
 
 
 
