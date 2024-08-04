@@ -6,7 +6,8 @@
 
 - <b>[Penetration Test Report (Mock)](https://github.com/RightChoiceJayden/Pen-Test-Report)</b>
 
-- <b>[Linux](https://github.com/RightChoiceJayden/Pen-Test-Report)</b>
+- <b>Linux</b>
+
 
 - <b>[SQL](https://github.com/RightChoiceJayden/Pen-Test-Report)</b>
 
