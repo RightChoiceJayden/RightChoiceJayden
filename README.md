@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jayden! <br/><a href="https://linkedin.com/in/jayden-harris-701b32234">Software Developer</a>, <a href="https://linkedin.com/in/jayden-harris-701b32234">Cybersecurity Professional</a>
+<h1>Hi, I'm Jayden! <br/><a href="https://linkedin.com/in/jayden-harris-701b32234">LinkedIn</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
