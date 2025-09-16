@@ -10,6 +10,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>[iso27001 Lead Auditor](https://github.com/RightChoiceJayden/iso27001-lead-auditor-project.git)</b>
 
 - <b>[Nmap Port Scanner](https://github.com/RightChoiceJayden/P-Nmap.py/blob/main/README.md)</b>
 
